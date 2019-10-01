@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/UKHomeOfficeForms/hof-frontend-toolkit",
   "dependencies": {
-    "govuk_frontend_toolkit": "^4.5.0",
+    "govuk_frontend": "3.2.0",
     "lodash.foreach": "^4.5.0",
     "lodash.groupby": "^4.6.0"
   },

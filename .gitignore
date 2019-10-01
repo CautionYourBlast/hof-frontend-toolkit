@@ -1,3 +1,4 @@
 node_modules
 assets/stylesheets/*.css
 assets/images/icons
+.idea
